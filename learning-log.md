@@ -29,5 +29,6 @@ dsdasdasdasdasd
 
 ## Next Steps
 - Learn about rebasing and interactive rebase
-
+- Explore GitHub Actions for automation
+- Practice contributing to open source projects
 
